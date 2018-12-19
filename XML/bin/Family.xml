@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<families>
+	<family adress="Belarus,Minsk,N177">
+
+
+		<mother>
+			<maiden_name>Petrova</maiden_name>
+			<name>Kate</name>
+			<surname>Ivanova</surname>
+			<age>29</age>
+
+		</mother>
+	  	<!--<father>
+			<name>Aleh</name>
+			<surname>Ivanov</surname>
+			<age>31</age>
+		</father>
+		<children>
+
+			<child>
+				<name>Vera</name>
+				<surname>Ivanova</surname>
+				<age>3</age>
+				<gender>female</gender>
+			</child>
+			<child>
+				<name>Roma</name>
+				<surname>Ivanov</surname>
+				<age>0</age>
+				<gender>male</gender>
+			</child>
+
+		</children>
+-->
+
+	</family>
+
+
+</families>
